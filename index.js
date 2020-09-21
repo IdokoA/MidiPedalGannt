@@ -31,7 +31,7 @@ function drawChart() {
     ['Final Code', 'Proprietery Code', 'Proprietery Code',
      new Date(2021, 0, 6), new Date(2021, 3, 16), daysToMilliseconds(1), 0, null],
     ['Graphics', 'Graphics', 'Proprietery Code',
-     new Date(2021, 0, 6), new Date(2021, 3, 16), daysToMilliseconds(1), 2, 'Code'],
+     new Date(2021, 0, 6), new Date(2021, 3, 16), daysToMilliseconds(1), 2, null],
     ['Daughter Board', 'Daughter Board Integration', 'Daughter Board',
      new Date(2021, 2, 1), new Date(2021, 3, 16), daysToMilliseconds(1), 5, null ],
     ]);
