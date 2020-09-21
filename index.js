@@ -28,7 +28,7 @@ function drawChart() {
      new Date(2020, 8, 25), new Date(2020, 10, 6), daysToMilliseconds(1), 0, null],
     ['LED', 'LED Programming', 'Code',
      new Date(2020, 9, 1), new Date(2020, 10, 25), daysToMilliseconds(1), 0, null],
-    ['Final Code', 'Proprietery Code', 'Proprietery Code',
+    ['Final Code', 'Proprietary Code', 'Proprietery Code',
      new Date(2021, 0, 6), new Date(2021, 3, 16), daysToMilliseconds(1), 0, null],
     ['Graphics', 'Graphics', 'Proprietery Code',
      new Date(2021, 0, 6), new Date(2021, 3, 16), daysToMilliseconds(1), 2, null],
