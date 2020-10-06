@@ -19,9 +19,9 @@ function drawChart() {
 
   data.addRows([
     ['PCB', 'PCB', 'PCB',
-     new Date(2020, 8, 25), new Date(2020, 9, 16), null,  90,  null],
+     new Date(2020, 8, 25), new Date(2020, 9, 16), null,  100,  null],
     ['Enclosure', 'Enclosure', 'Enclosure',
-     new Date(2020, 8, 25), new Date(2020, 9, 24), daysToMilliseconds(3), 25, null],
+     new Date(2020, 8, 25), new Date(2020, 9, 24), daysToMilliseconds(3), 60, null],
     ['Code', 'Concept Code', 'Code',
      new Date(2020, 10, 10), new Date(2020, 11, 14), daysToMilliseconds(1), 50,'PCB'],
     ['Pedal', 'Rocker Pedal', 'Pedal',
